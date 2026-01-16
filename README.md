@@ -1,4 +1,4 @@
-# ManagingTransactionIn-Spring-Boot
+# ManagingTransaction-In-Spring-Boot
 
 This project shows how to handle database transactions in a Spring Boot application using `@Transactional`.
 
